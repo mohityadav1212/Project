@@ -1,0 +1,5 @@
+org\myproject\live_chat\controller\ChatController.class
+org\myproject\live_chat\config\ChatConfig.class
+org\myproject\live_chat\model\MessageType.class
+org\myproject\live_chat\LiveChatApplication.class
+org\myproject\live_chat\model\ChatMessage.class
